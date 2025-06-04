@@ -26,7 +26,6 @@ okongo-ecommerce/
 - Product Table: /product_table.html
 - Registration Form: /registration_form.html
 
-> Replace `yourusername` with your GitHub username after uploading.
 
 ## ⚙️ Built With
 
@@ -37,4 +36,4 @@ okongo-ecommerce/
 ## ✍️ Author
 
 **Stan Okong'o**  
-_Designed as part of a CAT 1 individual assignment, June 2025_
+
